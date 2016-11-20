@@ -42,7 +42,7 @@ Der Code muss man zu geben:
 
 Ein Feld mit dem Wert des Abstandes in jeder Box. Mit diesen Daten werden Ihnen den Zeichen, den kürzesten Weg simpre den Platz mit dem niedrigsten Wert auswählen.
 
-**Detaillierte Informationen über das [Wiki](https://github.com/Didweb/Dijkstra_Game2D/wiki "Der Wiki über Dijkstra_game2D")**
+**Detaillierte Informationen über das [Wiki](https://github.com/Didweb/Dijkstra_Game2D/wiki/Home-Deutsch "Der Wiki über Dijkstra_game2D")**
 
 
 ------
@@ -67,7 +67,7 @@ Necessary parameters
 
 An array with the value of the distance in each box. With this data your characters can take the shortest path by choosing the box with the lowest value.
 
-**Detailed information on the [Wiki](https://github.com/Didweb/Dijkstra_Game2D/wiki "The Wiki of Dijkstra_game2D")**
+**Detailed information on the [Wiki](https://github.com/Didweb/Dijkstra_Game2D/wiki/Home--English "The Wiki of Dijkstra_game2D")**
 
 
 
